@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Student\PR9.2.A\PR9.2.A\PR9.2.A.cpp(46,11): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.2.A\PR9.2.A\PR9.2.A.cpp(57,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Student\PR9.2.A\PR9.2.A\PR9.2.A.cpp(126,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  UnitTest1.vcxproj -> C:\Student\PR9.2.A\x64\Debug\UnitTest1.dll
